@@ -1,2 +1,2 @@
 # Pole-Balancing-with-Q-Learning
-main: run_Q_learning
+main: run_Q_learning.m
